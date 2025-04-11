@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head> 
+<body>
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <nav>
+            <ul>
+                <u><li><a href="#CONTACT">Contact</a></li></u>
+                <u><li><a href="#ABOUT">About me</a></li></u>
+            </ul>
+        </nav>
+    </header>
+        <section id="PORTFOLIO">
+            <h2>Portfolio</h2>
+            <ul>This website is a compilation of our efforts, innovations, and advancements in the field of information technology. Explore each area of the website to learn more about our passions and experiences.</ul>
+        </section>
+
+    <section id="ABOUT">
+        <h2>About Me</h2>
+        <div class="about-container">
+            <img src="JUDE.jpg" alt="Jude B. Dapat">
+            <div class="about-text">
+                <h3><strong>DAPAT JUDE B.</strong></h3>
+                <p>I'm Jude B. Dapat, a dedicated college student currently enrolled at Cebu Eastern College. I am pursuing a degree in Information Technology, where I am gaining valuable skills and knowledge in various aspects of IT, including programming and web development. My passion for technology drives me to continuously learn and improve my abilities, and I am excited about the opportunities that lie ahead in my career.</p>
+                
+                <strong><h4>Skills</h4></strong>
+                <ul>
+                    <li>Hardworking</li>
+                    <li>Teamwork and collaboration.</li>
+                    <li>Critical thinking and problem solving</li>
+                 
+                </ul>
+            </div>
+
+        </section>
+        <section id="CONTACT">
+            <h2>Contact Me</h2>
+            <ul><p>Email: dapatjude@gmail.com</p></ul>
+            <ul><p>Number: 09311200336</p></ul>
+            <ul><a href="https://www.facebook.com/jude.dapat.16">My Facebook</a></ul>
+        </section>
+
+    
+    <footer>
+        <p>&copy; 2025 Jude B. Dapat(Cebu Eastern College). All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
